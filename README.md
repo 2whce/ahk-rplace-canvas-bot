@@ -10,6 +10,7 @@ an easy-to-use autohotkey-based program that allows you to bot on the rplace.liv
 - third, either choose the "y" (allows the script to move around without human input) or "n" (human input is required to bot) moving methods.
 - fourth, enter any number into the "width" and "height" number fields to choose the total width and height of your botted art that will be place.
 - fifth, choose your preferred colors for the "left" and "right" columns. a cheatlist of rplace.live's available colors for the keyboard can be found inside this repository. (only works for "main.ahk")
+- sixth, once your all done, click on the canvas in the rplace.live browser tab and press f5 to start your botting session
 - finally, if you recieve any kind of hcaptcha or cloudflare captchas on rplace.live, press f7 to pause the autohotkey script, as the site's captchas don't allow you to place any kind of pixels on the canvas whatsoever. once you've solved the captcha successfully, press f6 to continue your botting session peacefully
 - just have fun botting on the rplace.live canvas!
 
