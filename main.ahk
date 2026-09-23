@@ -93,8 +93,9 @@ Loop
 Send, % "{" J " down}"
 Sleep, 100
 Send, % "{" J " up}"
-Sleep, %GoTimes%
+Sleep, 100
 Send, {Enter down}{Enter up}
+Sleep, %GoTimes%
 }
 }
 return
