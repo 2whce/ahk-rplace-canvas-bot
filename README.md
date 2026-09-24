@@ -1,4 +1,4 @@
-# autohotkey rplace.live chat spambot
+# autohotkey rplace.live canvas bot
 an easy-to-use autohotkey-based program that allows you to bot on the rplace.live canvas with a user-friendly interface, with no web browser scripts or extensions required, meaning that it'll be very less likely for it to be made broken or "patched" by both zekiah and blobkat.
 
 # dependecies required

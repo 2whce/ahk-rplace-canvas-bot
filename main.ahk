@@ -1,4 +1,4 @@
-GoTimes := 1800 ; rplace.live's cooldown appears to roughly be 2 seconds. this value will need to be lowered down during testing.
+GoTimes := 1500 ; rplace.live's cooldown appears to roughly be 2 seconds. this value will need to be lowered down during testing.
 
 Goto start
 
